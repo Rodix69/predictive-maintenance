@@ -70,7 +70,8 @@ streamlit run app.py
 
 **Endpoint:**
 ```
-POST https://su40h5dbj7.execute-api.ap-south-1.amazonaws.com/prod/predict
+https://your-api-gateway-url/prod/predict
+
 ```
 
 **Request:**
