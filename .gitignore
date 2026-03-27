@@ -1,0 +1,16 @@
+# Large model files
+model.pkl
+model.tar.gz
+predictive_maintenance_model.pkl
+
+# Dataset
+predictive_maintenance_dataset.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
